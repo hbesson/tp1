@@ -1,2 +1,3 @@
-./
+
+
 print "mon script python"
